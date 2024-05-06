@@ -1,2 +1,0 @@
-username = abdulsamad
-pass = Teens2016
